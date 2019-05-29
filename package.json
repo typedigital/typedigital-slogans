@@ -1,4 +1,19 @@
 {
   "name": "@typedigital/typedigital-slogans",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Slogans for the navbar on the Typedigital Website",
+  "main": "navbartext.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typedigital/typedigital-slogans.git"
+  },
+  "author": "wunderjo",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/typedigital/typedigital-slogans/issues"
+  },
+  "homepage": "https://github.com/typedigital/typedigital-slogans#readme"
 }
