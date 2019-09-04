@@ -9,6 +9,6 @@ If you have an idea that you want to add to our website feel free to simply open
 The only rules you have to follow are the following: 
 
  - adhere to the format: 2 words, first one beginning with T, second one with D
- - don't defame, discirmiate or hurt anyone. These expressions are supposed to be fun and not disrespectful. Feel free to meme, like us.
+ - don't defame, discirmiate or hurt anyone. These expressions are supposed to be fun and not disrespectful. Feel free to meme like us.
 
 This Project is released under the unilicence and we treat every contribution as such.  
